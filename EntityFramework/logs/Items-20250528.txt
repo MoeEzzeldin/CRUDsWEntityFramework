@@ -1,0 +1,61 @@
+2025-05-28 18:27:39.349 -04:00 [INF] Now listening on: https://localhost:7145
+2025-05-28 18:27:39.382 -04:00 [INF] Now listening on: http://localhost:5271
+2025-05-28 18:27:39.432 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-28 18:27:39.433 -04:00 [INF] Hosting environment: Development
+2025-05-28 18:27:39.434 -04:00 [INF] Content root path: C:\Users\Ahmed\workspace\repositories\Practice\EntityFramework\EntityFramework
+2025-05-28 18:27:44.256 -04:00 [INF] Executed DbCommand (46ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [i].[Id], [i].[Name], [i].[Price]
+FROM [Items] AS [i]
+2025-05-28 18:27:44.314 -04:00 [INF] Retrieved 7 items from the database.
+2025-05-28 18:27:56.641 -04:00 [INF] Executed DbCommand (18ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (DbType = Double)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Items] ([Name], [Price])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2025-05-28 18:27:56.719 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [i].[Id], [i].[Name], [i].[Price]
+FROM [Items] AS [i]
+2025-05-28 18:27:56.722 -04:00 [INF] Retrieved 8 items from the database.
+2025-05-28 18:27:57.881 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [i].[Id], [i].[Name], [i].[Price]
+FROM [Items] AS [i]
+2025-05-28 18:27:57.884 -04:00 [INF] Retrieved 8 items from the database.
+2025-05-28 18:28:04.247 -04:00 [INF] Executed DbCommand (2ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [i].[Id], [i].[Name], [i].[Price]
+FROM [Items] AS [i]
+WHERE [i].[Id] = @__p_0
+2025-05-28 18:28:04.270 -04:00 [INF] Executed DbCommand (3ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Items]
+OUTPUT 1
+WHERE [Id] = @p0;
+2025-05-28 18:28:04.296 -04:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [i].[Id], [i].[Name], [i].[Price]
+FROM [Items] AS [i]
+2025-05-28 18:28:04.300 -04:00 [INF] Retrieved 7 items from the database.
+2025-05-28 18:28:14.159 -04:00 [INF] Executed DbCommand (0ms) [Parameters=[@__p_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [i].[Id], [i].[Name], [i].[Price]
+FROM [Items] AS [i]
+WHERE [i].[Id] = @__p_0
+2025-05-28 18:28:14.177 -04:00 [INF] Executed DbCommand (2ms) [Parameters=[@p2='?' (DbType = Int32), @p0='?' (Size = 4000), @p1='?' (DbType = Double)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Items] SET [Name] = @p0, [Price] = @p1
+OUTPUT 1
+WHERE [Id] = @p2;
+2025-05-28 18:28:14.195 -04:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [i].[Id], [i].[Name], [i].[Price]
+FROM [Items] AS [i]
+2025-05-28 18:28:14.199 -04:00 [INF] Retrieved 7 items from the database.
+2025-05-28 19:02:13.697 -04:00 [INF] Now listening on: https://localhost:7145
+2025-05-28 19:02:13.736 -04:00 [INF] Now listening on: http://localhost:5271
+2025-05-28 19:02:13.783 -04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-05-28 19:02:13.785 -04:00 [INF] Hosting environment: Development
+2025-05-28 19:02:13.786 -04:00 [INF] Content root path: C:\Users\Ahmed\workspace\repositories\Practice\EntityFramework\EntityFramework
+2025-05-28 19:02:20.041 -04:00 [INF] Fetching all items from the repository.
+2025-05-28 19:02:21.310 -04:00 [INF] Executed DbCommand (60ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [i].[Id], [i].[Name], [i].[Price]
+FROM [Items] AS [i]
+2025-05-28 19:02:21.421 -04:00 [INF] Retrieved 7 items from the database.

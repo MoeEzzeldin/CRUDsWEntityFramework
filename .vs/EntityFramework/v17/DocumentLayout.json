@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\data\\myappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\repos\\repo\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\repos\\repo\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\repos\\irepo\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\repos\\irepo\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\mappings\\itemmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\mappings\\itemmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\models\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\models\\dtos\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\entityframework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Migrations\\20250528165829_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityFramework\\Migrations\\20250528165829_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|c:\\users\\ahmed\\workspace\\repositories\\practice\\entityframework\\entityframework\\migrations\\20250528170133_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57B4C7-6D2D-413A-ABD4-B1A6652E4A27}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\migrations\\20250528170133_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Repos\\IRepo\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Repos\\IRepo\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Repos\\IRepo\\IItemRepository.cs",
+              "RelativeToolTip": "EntityFramework\\Repos\\IRepo\\IItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:16:48.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Models\\DTOs\\ItemDTO.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Models\\DTOs\\ItemDTO.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Models\\DTOs\\ItemDTO.cs",
+              "RelativeToolTip": "EntityFramework\\Models\\DTOs\\ItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:07:51.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Program.cs",
+              "RelativeToolTip": "EntityFramework\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:21:06.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EntityFramework\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:52:12.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EntityFramework\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EntityFramework\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T16:11:58.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "EntityFramework\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "EntityFramework\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T16:26:07.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Mappings\\ItemMapper.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Mappings\\ItemMapper.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Mappings\\ItemMapper.cs",
+              "RelativeToolTip": "EntityFramework\\Mappings\\ItemMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:03:43.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Data\\MyAppContext.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Data\\MyAppContext.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Data\\MyAppContext.cs",
+              "RelativeToolTip": "EntityFramework\\Data\\MyAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:15:54.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Repos\\Repo\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Repos\\Repo\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Repos\\Repo\\ItemRepository.cs",
+              "RelativeToolTip": "EntityFramework\\Repos\\Repo\\ItemRepository.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwFgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:17:13.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityFramework.csproj",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
+              "RelativeDocumentMoniker": "EntityFramework\\EntityFramework.csproj",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\EntityFramework.csproj",
+              "RelativeToolTip": "EntityFramework\\EntityFramework.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T20:57:52.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250528170133_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Migrations\\20250528170133_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Migrations\\20250528170133_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Migrations\\20250528170133_InitialCreate.cs",
+              "RelativeToolTip": "EntityFramework\\Migrations\\20250528170133_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:01:33.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250528165829_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Migrations\\20250528165829_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Migrations\\20250528165829_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Migrations\\20250528165829_InitialCreate.cs",
+              "RelativeToolTip": "EntityFramework\\Migrations\\20250528165829_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T16:58:29.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "EntityFramework\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\Models\\Item.cs",
+              "RelativeToolTip": "EntityFramework\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T15:14:52.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\appsettings.json",
+              "RelativeDocumentMoniker": "EntityFramework\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmed\\workspace\\repositories\\Practice\\EntityFramework\\EntityFramework\\appsettings.json",
+              "RelativeToolTip": "EntityFramework\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T15:26:06.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
